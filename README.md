@@ -1,4 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+## ReactJS and Socket.io Chat App Tutorial
+
+### Getting Started
+
+First you'll need to fork or download the respository.
+
+Then in terminal you'll install the node modules
+
+npm install
+
+Then you can run it using
+
+npm run react to start React dev server. npm run server to start NodeJS Socket.io server.
+
+
+## This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
